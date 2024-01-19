@@ -156,10 +156,10 @@ The datasets used in this analysis were sourced from the following providers und
 
 1. **London Weather Data:**
    
-   - Data provided by Emmanuel F. Werr, available at Kaggle: [London Energy Data](https://www.kaggle.com/datasets/emmanuelfwerr/london-homes-energy-data).
+   - Data provided by Emmanuel F. Werr, available at Kaggle: [London Weather Data](https://www.kaggle.com/datasets/emmanuelfwerr/london-weather-data)
    - License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
 
 2. **Smart Meters in London:**
    
-   - Data provided by Jean-Michel D., available at Kaggle: [Smart meters in London](https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london).
+   - Data provided by Jean-Michel D., available at Kaggle: [Smart meters in London](https://www.kaggle.com/datasets/jeanmidev/smart-meters-in-london)
    - License: Open Data Commons Open Database License (ODbL) v1.0.
